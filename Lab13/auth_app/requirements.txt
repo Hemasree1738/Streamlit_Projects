@@ -1,0 +1,5 @@
+streamlit
+pandas
+passlib
+bcrypt
+mysql-connector-python
